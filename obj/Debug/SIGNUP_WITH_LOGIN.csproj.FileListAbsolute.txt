@@ -1,0 +1,12 @@
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\bin\Debug\SIGNUP_WITH_LOGIN.exe.config
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\bin\Debug\SIGNUP_WITH_LOGIN.exe
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\bin\Debug\SIGNUP_WITH_LOGIN.pdb
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.csproj.AssemblyReference.cache
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.LOGIN.resources
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.Properties.Resources.resources
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.csproj.GenerateResource.cache
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.exe
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.pdb
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.SIGNUP.resources
+C:\Users\gaura\source\repos\WinFormsApp13-1\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.csproj.SuggestedBindingRedirects.cache
